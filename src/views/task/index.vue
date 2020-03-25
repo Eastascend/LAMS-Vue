@@ -74,7 +74,7 @@ export default {
       disabled: typeof navigator !== 'undefined' && /iphone/i.test(navigator.userAgent) && /ucbrowser/i.test(navigator.userAgent),
       type: '5',
       list: [{
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《采购合同》',
         desc: '采购合同内容。采购合同内容。采购合同内容。采购合同内容。采购合同内容。',
         url: '/task/' + '202002120001',
@@ -85,7 +85,7 @@ export default {
         }
       },
       {
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《战略协议》',
         desc: '战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。',
         url: {
@@ -99,7 +99,7 @@ export default {
         }
       },
       {
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《框架协议》',
         desc: '战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。',
         url: {
@@ -113,7 +113,7 @@ export default {
         }
       },
       {
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《采购合同》',
         desc: '战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。',
         url: {
@@ -127,7 +127,7 @@ export default {
         }
       },
       {
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《战略合作协议》',
         desc: '战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。',
         url: {
@@ -141,7 +141,7 @@ export default {
         }
       },
       {
-        src: './src/assets/icon/icon_cnt.png',
+        src: './static/icon/icon_cnt.png',
         title: '合同审批:《知识产权协议》',
         desc: '战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。战略协议内容。',
         url: {
